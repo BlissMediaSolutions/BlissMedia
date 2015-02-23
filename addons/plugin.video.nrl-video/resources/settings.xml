@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<!-- High Quality -->
+	<setting id="QUALITY" type="enum" label="10001" values="Low (172k/s)|Medium (1Mb/s)|High (2Mb/s)" default="2" />
+	<setting id="TEAM" type="enum" label="10002" values="None|Broncos|Bulldogs|Cowboys|Dragons|Eels|Knights|Panthers|Rabbitohs|Rooster|Sea Eagles|Sharks|Storm|Titans|Warriors|West Tigers" default="0" />
+</settings>
